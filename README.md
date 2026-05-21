@@ -29,6 +29,7 @@
 | 🎙️ **Suicidal Tendency Prediction from Audio** | Mental Health AI | Audio Processing, Spectrogram Analysis, Machine Learning |
 | 🎬 **IMDb Analysis & Prediction** | Data Analytics | Power BI, RapidMiner, Python |
 | 🦴 **Facial Reconstruction from Skull** | Computer Vision | OpenCV, Deep Learning |
+| 🌿 **Vegetation Detection from Satellite Images** | Remote Sensing / Computer Vision | MATLAB, Image Processing, NDVI, Classification |
 
 ## 🧰 Tech Stack
 

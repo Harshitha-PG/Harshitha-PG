@@ -22,14 +22,16 @@
 
 ## 🧠 Projects & Research Highlights
 
+
 | 💼 Project | 💡 Domain | 🧰 Tools & Technologies |
-|------------|------------|--------------------------|
-| 🤖 **TestGen – AI-powered Validation & Testcase Generation** | Generative AI / Automation | Python, RAG, ChromaDB, LLMs, Node.js |
-| 🧠 **NeuroCanvas – Multimodal Emotion Recognition** | AI + Neuroscience | Python, Flask, EEG Processing, Machine Learning |
-| 🎙️ **Suicidal Tendency Prediction from Audio** | Mental Health AI | Audio Processing, Spectrogram Analysis, Machine Learning |
-| 🎬 **IMDb Analysis & Prediction** | Data Analytics | Power BI, RapidMiner, Python |
-| 🦴 **Facial Reconstruction from Skull** | Computer Vision | OpenCV, Deep Learning |
-| 🌿 **Vegetation Detection from Satellite Images** | Remote Sensing / Computer Vision | MATLAB, Image Processing, NDVI, Classification |
+|---|---|---|
+| 🤖 TestGen – AI-powered Validation & Testcase Generation | Generative AI / Automation | Python, RAG, ChromaDB, LLMs, Node.js |
+| 🧠 NeuroCanvas – Multimodal Emotion Recognition | AI + Neuroscience | Python, Flask, EEG Processing, Machine Learning |
+| 🎙️ Suicidal Tendency Prediction from Audio | Mental Health AI | Audio Processing, Spectrogram Analysis, Machine Learning |
+| 🎬 IMDb Analysis & Prediction | Data Analytics | Power BI, RapidMiner, Python |
+| 🦴 Facial Reconstruction from Skull | Computer Vision | OpenCV, Deep Learning |
+| 🌿 Vegetation Detection from Satellite Images | Remote Sensing / Computer Vision | MATLAB, Image Processing, NDVI, Classification |
+| 🍔🎮 Bites of Joy – Gamified Restaurant Web Application | Web Development / UI-UX / Gamification | React.js, Tailwind CSS, Framer Motion, Context API, GitHub, Vercel |
 
 ## 🧰 Tech Stack
 
